@@ -1,0 +1,10 @@
+* purl
+
+Provides a parser and defines a type for URLs as specified in RFC1738.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eugeneia/purl.git   |
+| commit  | f5766db  |
+| systems | purl |
+|---------+-------------------------------------------|
+
